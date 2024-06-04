@@ -1,0 +1,10 @@
+D:\Jogo T-rex\T Rex\bin\Debug\T Rex.exe.config
+D:\Jogo T-rex\T Rex\bin\Debug\T Rex.exe
+D:\Jogo T-rex\T Rex\bin\Debug\T Rex.pdb
+D:\Jogo T-rex\T Rex\obj\Debug\T Rex.csproj.AssemblyReference.cache
+D:\Jogo T-rex\T Rex\obj\Debug\T_Rex.Form1.resources
+D:\Jogo T-rex\T Rex\obj\Debug\T_Rex.Properties.Resources.resources
+D:\Jogo T-rex\T Rex\obj\Debug\T Rex.csproj.GenerateResource.cache
+D:\Jogo T-rex\T Rex\obj\Debug\T Rex.csproj.CoreCompileInputs.cache
+D:\Jogo T-rex\T Rex\obj\Debug\T Rex.exe
+D:\Jogo T-rex\T Rex\obj\Debug\T Rex.pdb
